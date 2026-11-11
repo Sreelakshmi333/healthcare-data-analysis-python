@@ -24,6 +24,17 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 5. Elective admissions have the highest average bill, but all three types are almost equal.
 6. The 65+ age group has the most patients.
 
+## Charts
+
+### Patients by Age Group
+![Patients by Age Group](age_group.png)
+
+### Average Bill by Medical Condition
+![Average Bill by Medical Condition](avg_bill.png)
+
+### Average Bill: Condition vs Admission Type
+![Heatmap](heatmap.png)
+
 ## Note
 The data is synthetic, so most values look very even.
 
